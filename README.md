@@ -121,7 +121,6 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](hackerone.com/suryaping365)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]([https://bugcrowd.com/](https://bugcrowd.com/h/Surya_Haker))
-[![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=for-the-badge&logoColor=white)](https://intigriti.com/)
 
 </div>
 
