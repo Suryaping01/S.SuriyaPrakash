@@ -115,16 +115,7 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 
 ---
 
-## 🏆 Bug Bounty Platforms
 
-<div align="center">
-
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](hackerone.com/suryaping365)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]([https://bugcrowd.com/](https://bugcrowd.com/h/Surya_Haker))
-
-</div>
-
----
 
 ## 📜 Certifications & Learning Path
 
@@ -134,19 +125,30 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 [✔] CompTIA Security+ (DONE)
 [ ] OSCP  - Ultimate Goal 🎯
 ```
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprakash-sekar-79014123/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryaping01)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/surya.ping)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/suryaping365)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/h/Surya_Haker)
 
 </div>
 
+---
+
+<div align="center">
+
+```bash
+┌──(suriya㉿kali)-[~]
+└─$ echo "Thanks for visiting! Happy Hunting 🎯"
+
+> "The quieter you become, the more you can hear." — Kali Linux
+```
+
+</div>
 ---
 
 <div align="center">
