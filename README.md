@@ -11,7 +11,7 @@
 ```
 
 # 👾 Suriya Prakash Sekar
-### `[ Cybersecurity Researcher | Bug Hunter | Penetration Tester ]`
+### `[ IT Engineer | Cybersecurity Researcher | Bug Hunter | Penetration Tester ]`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hunting+Bugs+%F0%9F%90%9B+|+Breaking+Things+Ethically;Penetration+Tester+%7C+Web+Security;Network+%26+Firewall+Specialist;Linux+%26+Windows+Security+Expert)](https://git.io/typing-svg)
 
@@ -63,9 +63,9 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 | 🐛 Bug Bounty Hunting | ██████████ Intermediate |
 | 🔓 Penetration Testing | ██████████ Intermediate |
 | 🌐 Web Application Security | ██████████ Intermediate |
-| 🔥 Firewall & Network Security | ████████░░ Intermediate |
+| 🔥 Firewall & Network Security | ████████████ Intermediate |
 | 🐧 Linux Security | ████████░░ Intermediate |
-| 🪟 Windows Platform Security | ███████░░░ Intermediate |
+| 🪟 Windows Platform Security | ████████████ Intermediate |
 
 </div>
 
