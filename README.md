@@ -1,9 +1,17 @@
-!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff0080,15:ff4500,30:ffd700,45:00ff88,60:00cfff,75:bf00ff,90:ff0080,100:ff4500&text=SURIYA%20PRAKASH%20SEKAR&fontColor=ffffff&fontSize=52&fontAlignY=45&animation=twinkling&stroke=ffffff&strokeWidth=1.5&desc=🔐%20Cybersecurity%20Researcher%20%7C%20Bug%20Hunter%20%7C%20Penetration%20Tester&descSize=18&descAlignY=72&descColor=ffffff" width="100%"/>
+```
+███████╗██╗   ██╗██████╗ ██╗██╗   ██╗ █████╗ 
+██╔════╝██║   ██║██╔══██╗██║╚██╗ ██╔╝██╔══██╗
+███████╗██║   ██║██████╔╝██║ ╚████╔╝ ███████║
+╚════██║██║   ██║██╔══██╗██║  ╚██╔╝  ██╔══██║
+███████║╚██████╔╝██║  ██║██║   ██║   ██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-
+# 👾 Suriya Prakash Sekar
+### `[ IT Engineer | Networking | Cybersecurity Researcher | Bug Hunter | Penetration Tester ]`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Hunting+Bugs+%F0%9F%90%9B+|+Breaking+Things+Ethically;Penetration+Tester+%7C+Web+Security;Network+%26+Firewall+Specialist;Linux+%26+Windows+Security+Expert)](https://git.io/typing-svg)
 
@@ -13,6 +21,7 @@
 </div>
 
 ---
+
 
 
 ## 🕵️ About Me
