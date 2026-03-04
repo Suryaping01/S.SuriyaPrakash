@@ -161,3 +161,15 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 ```
 
 </div>
+---
+
+<div align="center">
+
+```bash
+┌──(suriya㉿kali)-[~]
+└─$ echo "Thanks for visiting! Happy Hunting 🎯"
+
+> "The quieter you become, the more you can hear." — Kali Linux
+```
+
+</div>
