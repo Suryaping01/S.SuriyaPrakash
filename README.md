@@ -119,7 +119,7 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 
 <div align="center">
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)]([https://hackerone.com/](https://hackerone.com/suryaping365?type=user))
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](hackerone.com/suryaping365)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)]([https://bugcrowd.com/](https://bugcrowd.com/h/Surya_Haker))
 [![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=for-the-badge&logoColor=white)](https://intigriti.com/)
 
@@ -142,9 +142,9 @@ Currently, I'm sharpening my skills through hands-on labs, CTF challenges, and r
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/suriyaprakashsekar](https://www.linkedin.com/in/suriyaprakash-sekar-79014123/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suriyaprakash-sekar-79014123/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suryaping01)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)]([https://tryhackme.com](https://tryhackme.com/p/surya.ping)/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/surya.ping)
 
 </div>
 
